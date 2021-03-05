@@ -1,5 +1,7 @@
 # txx-server
 
+以下をサーバで実行して下さい．
+~~~
 # 作業用ディレクトリの作成
 tmpdir=$(mktemp -d /tmp/wakita-`date "+%Y-%m-%d-%Hh%Mm"`) && cd $tmpdir                                           
 
@@ -11,3 +13,4 @@ cd txx-server; sh update.sh
 
 # 作業用ディレクトリの消去
 cd /tmp && rm -rf $tmpdir
+~~~
