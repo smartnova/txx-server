@@ -18,3 +18,4 @@ bokeh                             # 情報可視化
 # Pillow deps bokeh               # 画像処理        
 jupyterlab                        # ノートブック環境
 # Jinja2 deps jupyterlab          # テンプレートライブラリ
+sqlalchemy                        # SQL
