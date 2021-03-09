@@ -1,6 +1,7 @@
 #!/bin/sh
 
-cd ~wakita/lib/js
+mkdir -p ~wakita/lib/js/arc
+cd ~wakita/lib/js/arc
 
 dl() {
   echo "######################################################################"
