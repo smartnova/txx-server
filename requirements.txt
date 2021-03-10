@@ -14,6 +14,7 @@ xlrd                              # Excel形式データ処理
 openpyxl                          # Excel形式データ処理
 tabulate                          # 表データ出力
 Flask                             # ウェブアプリケーション基盤
+Flask-Cors                        # ウェブアプリケーション基盤
 bokeh                             # 情報可視化
 # Pillow deps bokeh               # 画像処理        
 jupyterlab                        # ノートブック環境
