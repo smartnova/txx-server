@@ -20,3 +20,4 @@ bokeh                             # 情報可視化
 jupyterlab                        # ノートブック環境
 # Jinja2 deps jupyterlab          # テンプレートライブラリ
 sqlalchemy                        # SQL
+sympy                             # 数式処理
